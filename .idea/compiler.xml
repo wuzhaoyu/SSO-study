@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sso-restful-springmvc" />
+        <module name="sso-cross-domain" />
+        <module name="sso-jwt" />
+        <module name="sso-security" />
+        <module name="sso-spring-session" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sso-cross-domain" target="1.5" />
+      <module name="sso-jwt" target="1.5" />
+      <module name="sso-restful-springmvc" target="1.5" />
+      <module name="sso-security" target="1.5" />
+      <module name="sso-spring-session" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

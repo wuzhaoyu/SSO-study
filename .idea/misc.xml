@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/sso-cross-domain" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-jwt" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-restful-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-security" />
+    <file type="web" url="file://$PROJECT_DIR$/sso-spring-session" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sso-cross-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-restful-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-security/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-spring-session/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
