@@ -23,6 +23,7 @@ function login(){
 				// session storage - 会话存储的数据。 一次会话有效。
 				var localStorage = window.localStorage; // 浏览器提供的存储空间。 根据key-value存储数据。
 				localStorage.token = token;
+				alert(data.msg);
 			}else{
 				alert(data.msg);
 			}

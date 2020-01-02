@@ -119,7 +119,7 @@
 			</tr>
 			<tr>
 				<td style="text-align: right; padding-right: 5px" colspan="2">
-					<input type="button" value="测试" onclick="doPost();" />
+					<input type="button" value="测试AES" onclick="doPost();" />
 				</td>
 			</tr>
 		</table>

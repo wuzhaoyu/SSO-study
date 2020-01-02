@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sso-security:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f44b64-cb7c-46fd-b7de-abc7322184c1" name="Default Changelist" comment="" />
+    <list default="true" id="e8f44b64-cb7c-46fd-b7de-abc7322184c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_jdbc_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/annotation/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/aspect/ValidateAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sso_cross_domain_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/sso_cross_domain_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sso_jwt_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/sso_jwt_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sso_restful_springmvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/sso_restful_springmvc_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sso_security_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/sso_security_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/sso_spring_session_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/sso_spring_session_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-cross-domain/sso-cross-domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-cross-domain/sso-cross-domain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTResponseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/commons/JWTSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/controller/JWTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/src/main/java/com/sxt/sso/controller/JWTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/sso-jwt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/sso-jwt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/commons/JWTResponseData.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/commons/JWTResponseData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/commons/JWTResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/commons/JWTResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/controller/JWTController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/target/classes/com/sxt/sso/controller/JWTController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-jwt/target/sso-jwt-1.0/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sso-jwt/target/sso-jwt-1.0/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-restful-springmvc/sso-restful-springmvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-restful-springmvc/sso-restful-springmvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/des/controller/DesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/des/controller/DesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/des/utils/DesResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/des/utils/DesResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/service/DesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/service/DesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/service/impl/DesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/java/com/sxt/service/impl/DesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/resources/applicationContext-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/resources/applicationContext-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/webapp/aes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/webapp/aes.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/src/main/webapp/des.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/src/main/webapp/des.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/sso-security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/sso-security.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/applicationContext-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/applicationContext-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/controller/AesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/controller/AesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/service/AesService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/service/AesService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/service/impl/AesServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/service/impl/AesServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/utils/AesCrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/utils/AesCrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/utils/AesResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/aes/utils/AesResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/controller/DesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/controller/DesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/utils/DesCrypt.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/utils/DesCrypt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/utils/DesResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/des/utils/DesResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/service/DesService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/service/DesService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/service/impl/DesServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sso-security/target/classes/com/sxt/service/impl/DesServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sso-spring-session/sso-spring-session.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sso-spring-session/sso-spring-session.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +90,34 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Aspect" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1VT9rLB4KK6Lft9W0j7iX1zbLpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,6 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sso-spring-session" />
@@ -58,6 +165,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tomcat 8.0.23" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.23" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="sso-jwt:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/sso_jwt" />
+          </settings>
+        </artifact>
+        <artifact name="sso-security:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SOO-study_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1739" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="sso-security:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -72,8 +257,19 @@
     <option name="viewStates">
       <list>
         <serviceView>
+          <option name="contentProportion" value="0.14480874" />
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -90,23 +286,149 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577266416003</updated>
-      <workItem from="1577266438807" duration="72000" />
+      <workItem from="1577266438807" duration="1327000" />
+      <workItem from="1577619857770" duration="3708000" />
+      <workItem from="1577754369386" duration="9789000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="548" y="216" key="#BuildArtifactsBeforeRunChooser" timestamp="1577786070905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="216" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1577786070905" />
     <state x="0" y="0" width="817" height="684" key="#Project_Structure" timestamp="1577266508060">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" width="817" height="684" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577266508060" />
-    <state x="188" y="28" key="FileChooserDialogImpl" timestamp="1577266503863">
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577786079894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577786079894" />
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1577941388139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577941388139" />
+    <state x="590" y="113" key="#xdebugger.evaluate" timestamp="1577942253525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="113" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1577942253525" />
+    <state x="188" y="28" key="FileChooserDialogImpl" timestamp="1577786037950">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="188" y="28" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577266503863" />
+    <state x="188" y="28" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577786037950" />
+    <state width="1251" height="362" key="GridCell.Tab.0.bottom" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.0.center" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728072" />
+    <state width="1251" height="362" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.0.left" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728072" />
+    <state width="1251" height="362" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.0.right" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728072" />
+    <state width="1251" height="362" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.1.bottom" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.1.center" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.1.left" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.1.right" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.2.bottom" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.2.center" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.2.left" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728073" />
+    <state width="1251" height="362" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.2.right" timestamp="1577942658267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577942658267" />
+    <state width="1251" height="362" key="GridCell.Tab.3.bottom" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.3.center" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.3.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.3.left" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.3.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.3.right" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.3.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728074" />
+    <state width="1251" height="362" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.4.bottom" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.4.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728075" />
+    <state width="1251" height="362" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.4.center" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.4.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728075" />
+    <state width="1251" height="362" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.4.left" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.4.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728075" />
+    <state width="1251" height="362" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
+    <state width="1251" height="362" key="GridCell.Tab.4.right" timestamp="1577942658268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1251" height="131" key="GridCell.Tab.4.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577668728075" />
+    <state width="1251" height="362" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1577942658268" />
     <state x="31" y="37" key="NewModule_or_Project.wizard" timestamp="1577266505266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="31" y="37" key="NewModule_or_Project.wizard/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577266505266" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1577940849795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577940849795" />
   </component>
   <component name="ZooKeeperConfig">
     <option name="host" value="192.168.98.4" />

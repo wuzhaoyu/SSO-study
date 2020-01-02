@@ -13,6 +13,23 @@
         <element id="directory" name="classes">
           <element id="module-output" name="sso-spring-session" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.session:spring-session-jdbc:2.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.session:spring-session-core:2.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.39" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/sso-spring-session/target/sso-spring-session-1.0/META-INF/MANIFEST.MF" />

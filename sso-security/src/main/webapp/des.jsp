@@ -59,11 +59,13 @@
         	var name = $("#nameText").val();
         	var password = $("#passwordText").val();
         	var message = name + password;
-        	var key = uuid();
+        	// var key = uuid();
+        	// var key =  "c61faa5f-66a4-4374-89f1-1090a86de13b";
+        	var key =  "com.sxt.des";
         	var param = {};
-        	param.name=name;
-        	param.password=password;
-        	param.key=key;
+        	// param.name=name;
+        	// param.password=password;
+        	// param.key=key;
         	// 正确的加密
         	param.message = encryptByDES(message, key);
         	// 测试解密错误，如：请求拦截。
@@ -71,7 +73,7 @@
         	// 测试异常情况。DES加密后的密文数据长度一定是8的整数倍。
         	// param.message = "testException";
         	$.ajax({
-        		'url':'/testDes',
+        		'url':'/aspectDes',
         		'data':param,
         		'success':function(data){
         			if(data){
@@ -110,7 +112,7 @@
 			</tr>
 			<tr>
 				<td style="text-align: right; padding-right: 5px" colspan="2">
-					<input type="button" value="测试" onclick="doPost();" />
+					<input type="button" value="测试DES" onclick="doPost();" />
 				</td>
 			</tr>
 		</table>

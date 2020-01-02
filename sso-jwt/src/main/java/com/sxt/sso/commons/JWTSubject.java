@@ -25,5 +25,5 @@ public class JWTSubject {
 	public void setUsername(String username) {
 		this.username = username;
 	}
-	
+
 }

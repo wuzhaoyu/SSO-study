@@ -49,6 +49,7 @@ public class JWTController {
 		JWTResponseData responseData = null;
 		// 认证用户信息。本案例中访问静态数据。
 		if(JWTUsers.isLogin(username, password)){
+			//作为public数据
 			JWTSubject subject = new JWTSubject(username);
 			String jwtToken = JWTUtils.createJWT(UUID.randomUUID().toString(), "sxt-test-jwt", 
 					JWTUtils.generalSubject(subject), 1*60*1000);
